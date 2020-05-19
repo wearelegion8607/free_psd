@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b622605-a6cd-4a8d-86b0-6d3a681bc2a6" name="Default Changelist" comment="" />
+    <list default="true" id="5b622605-a6cd-4a8d-86b0-6d3a681bc2a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/jquery.fancybox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/jquery.formstyler.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/about1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/about2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/about3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/advv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/girl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/news1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/news2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.fancybox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.formstyler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,20 +38,50 @@
       <executable />
     </execution>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
         <option value="CSS File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1biV82SgtGzcGdXQGkZemfsZpqX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\1\Desktop\free-psd" />
+      <recent name="C:\Users\1\Desktop\free-psd\src" />
+      <recent name="C:\Users\1\Desktop\free-psd\css" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -53,10 +108,94 @@
       <workItem from="1589114741657" duration="2338000" />
       <workItem from="1589137038156" duration="1731000" />
       <workItem from="1589139638237" duration="1508000" />
+      <workItem from="1589222053099" duration="780000" />
+      <workItem from="1589224342409" duration="1828000" />
+      <workItem from="1589226193582" duration="1319000" />
+      <workItem from="1589235847732" duration="1795000" />
+      <workItem from="1589237693984" duration="656000" />
+      <workItem from="1589301229385" duration="1282000" />
+      <workItem from="1589303060257" duration="1855000" />
+      <workItem from="1589305512763" duration="1691000" />
+      <workItem from="1589308406283" duration="708000" />
+      <workItem from="1589309127826" duration="1795000" />
+      <workItem from="1589311210796" duration="1674000" />
+      <workItem from="1589313025843" duration="1828000" />
+      <workItem from="1589314925935" duration="1820000" />
+      <workItem from="1589390634938" duration="1791000" />
+      <workItem from="1589396550280" duration="786000" />
+      <workItem from="1589401556759" duration="1795000" />
+      <workItem from="1589403366901" duration="1795000" />
+      <workItem from="1589405271397" duration="2009000" />
+      <workItem from="1589407335872" duration="1060000" />
+      <workItem from="1589474122915" duration="1791000" />
+      <workItem from="1589475933478" duration="1793000" />
+      <workItem from="1589478512345" duration="1805000" />
+      <workItem from="1589480387254" duration="1794000" />
+      <workItem from="1589482224238" duration="624000" />
+      <workItem from="1589488809543" duration="264000" />
+      <workItem from="1589489089920" duration="1789000" />
+      <workItem from="1589490927699" duration="1365000" />
+      <workItem from="1589492800190" duration="1031000" />
+      <workItem from="1589495281552" duration="142000" />
+      <workItem from="1589636321746" duration="514000" />
+      <workItem from="1589636872757" duration="1873000" />
+      <workItem from="1589638796345" duration="1793000" />
+      <workItem from="1589640709669" duration="1606000" />
+      <workItem from="1589642525165" duration="1792000" />
+      <workItem from="1589644334241" duration="1644000" />
+      <workItem from="1589660391884" duration="1761000" />
+      <workItem from="1589662177519" duration="579000" />
+      <workItem from="1589662775966" duration="1793000" />
+      <workItem from="1589664589993" duration="1885000" />
+      <workItem from="1589666540509" duration="1793000" />
+      <workItem from="1589735414033" duration="652000" />
+      <workItem from="1589742001698" duration="1792000" />
+      <workItem from="1589743882446" duration="1793000" />
+      <workItem from="1589745691898" duration="1833000" />
+      <workItem from="1589747542584" duration="1794000" />
+      <workItem from="1589749359237" duration="1793000" />
+      <workItem from="1589751175255" duration="1083000" />
+      <workItem from="1589753078526" duration="1795000" />
+      <workItem from="1589754891389" duration="1245000" />
+      <workItem from="1589794750008" duration="1794000" />
+      <workItem from="1589796747890" duration="1213000" />
+      <workItem from="1589798626449" duration="1361000" />
+      <workItem from="1589806565367" duration="1101000" />
+      <workItem from="1589809217235" duration="1803000" />
+      <workItem from="1589821764068" duration="1796000" />
+      <workItem from="1589823583770" duration="608000" />
+      <workItem from="1589826366229" duration="1228000" />
+      <workItem from="1589833573282" duration="1433000" />
+      <workItem from="1589835381135" duration="1793000" />
+      <workItem from="1589837194579" duration="1795000" />
+      <workItem from="1589839046754" duration="695000" />
+      <workItem from="1589841551805" duration="1375000" />
+      <workItem from="1589904853136" duration="904000" />
+      <workItem from="1589914079041" duration="1799000" />
+      <workItem from="1589915895010" duration="745000" />
+      <workItem from="1589918050408" duration="1712000" />
+      <workItem from="1589919873101" duration="1030000" />
+      <workItem from="1589922016179" duration="585000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
